@@ -1,0 +1,89 @@
+{
+  "tasks": [
+    {
+      "name": "Math Assignment",
+      "deadline": "close",
+      "importance": "high",
+      "difficulty": "hard",
+      "priority": {
+        "score": 0.9,
+        "label": "High"
+      },
+      "notes": "Chapter 5 problem set"
+    },
+    {
+      "name": "Science Project",
+      "deadline": "moderate",
+      "importance": "medium",
+      "difficulty": "moderate",
+      "priority_score": 0.6,
+      "priority_label": "Medium"
+    },
+    {
+      "name": "History Essay",
+      "deadline": "far",
+      "importance": "high",
+      "difficulty": "hard",
+      "priority": 0.55,
+      "id": "hist-002"
+    },
+    {
+      "task_name": "Biology Quiz",
+      "deadline_proximity": "close",
+      "importance": "medium",
+      "difficulty": "easy",
+      "priority_label": "High",
+      "priority_score": 0.75
+    },
+    {
+      "name": "Programming Lab",
+      "deadline_proximity": "near",
+      "importance": "high",
+      "difficulty": "moderate",
+      "priority": {
+        "score": 0.78,
+        "label": "High"
+      }
+    },
+    {
+      "name": "Art Portfolio",
+      "deadline": "far",
+      "importance": "medium",
+      "difficulty": "hard",
+      "priority_score": 0.4,
+      "priority_label": "Low"
+    },
+    {
+      "name": "Economics Presentation",
+      "deadline": "moderate",
+      "importance": "high",
+      "difficulty": "hard",
+      "priority_score": 0.7,
+      "priority_label": "High"
+    },
+    {
+      "name": "PE Assignment",
+      "deadline": "later",
+      "importance": "low",
+      "difficulty": "easy",
+      "priority_score": 0.2,
+      "priority_label": "Very Low"
+    },
+    {
+      "name": "Math homework",
+      "deadline": "far",
+      "importance": "low",
+      "difficulty": "hard",
+      "days": 40.0,
+      "importance10": 3.0,
+      "difficulty10": 7.0,
+      "priority": {
+        "score": 10.74,
+        "label": "very low"
+      },
+      "priority_score": 10.74,
+      "priority_label": "very low",
+      "notes": ""
+    }
+  ]
+}
